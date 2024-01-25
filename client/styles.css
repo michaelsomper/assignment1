@@ -1,0 +1,33 @@
+.recipe-photo{
+  width: 180px;
+  height: 200px;
+  object-fit: cover;
+  border: #444;
+  border-style: dotted;
+}
+
+#placeholder-div{
+  background-image: url("../images/placeholder.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 200px;
+  width: 250px;
+  object-fit: cover;
+  padding: 2px;
+}
+
+.upload-form{
+  max-width: 240px;
+  height: 30px;
+  color: black;
+}
+
+.form{
+  padding: 20px;
+}
+
+.navbar-brand{
+  padding-left: 15px;
+}

@@ -1,0 +1,465 @@
+[
+    {
+      "title": "Classic Chocolate Chip Cookies",
+      "ingredients": [
+        "1 cup Butter [softened]",
+        "3/4 cup White sugar",
+        "3/4 cup Brown sugar [packed]",
+        "2 large Eggs",
+        "1 teaspoon Vanilla extract",
+        "2 1/4 cups All-purpose flour",
+        "1 teaspoon Baking soda",
+        "1/2 teaspoon Salt",
+        "2 cups Chocolate chips"
+      ],
+      "servings": "24",
+      "instructions": [
+        "Preheat oven to 350°F.",
+        "In a large bowl; cream together butter; white sugar; and brown sugar until smooth.",
+        "Beat in eggs one at a time; then stir in vanilla.",
+        "In a separate bowl; combine flour; baking soda; and salt. Gradually add this to the butter mixture.",
+        "Stir in chocolate chips.",
+        "Drop rounded tablespoons of dough onto ungreased baking sheets.",
+        "Bake for 10-12 minutes or until edges are golden brown."
+      ],
+      "cooking_time": {
+        "prep": 20,
+        "cook": 12
+      }
+    },
+    {
+      "title": "Homemade Apple Pie",
+      "ingredients": [
+        "6 cups Apples; peeled; cored; and sliced",
+        "3/4 cup White sugar",
+        "3/4 cup Brown sugar [packed]",
+        "1 teaspoon Cinnamon",
+        "1/4 teaspoon Nutmeg",
+        "2 tablespoons All-purpose flour",
+        "2 Pie crusts [homemade or store-bought]"
+      ],
+      "servings": "8",
+      "instructions": [
+        "Preheat oven to 425°F.",
+        "In a large bowl; mix together apples; sugars; cinnamon; nutmeg; and flour.",
+        "Roll out one pie crust and place it in a pie dish.",
+        "Pour the apple mixture into the crust.",
+        "Roll out the second pie crust and place it over the apples.",
+        "Seal and flute the edges; and cut slits in the top crust to allow steam to escape.",
+        "Bake for 45-50 minutes or until the crust is golden brown."
+      ],
+      "cooking_time": {
+        "prep": 20,
+        "cook": 50
+      }
+    },
+    {
+      "title": "Chocolate Lava Cake",
+      "ingredients": [
+        "1/2 cup Butter",
+        "1 cup Semi-sweet chocolate chips",
+        "1 cup Powdered sugar",
+        "2 large Eggs",
+        "2 Egg yolks",
+        "6 tablespoons All-purpose flour",
+        "Powdered sugar for dusting (optional)"
+      ],
+      "servings": "4",
+      "instructions": [
+        "Preheat oven to 425°F.",
+        "Grease and flour four ramekins.",
+        "In a microwave-safe bowl; melt the butter and chocolate chips together.",
+        "Stir in powdered sugar.",
+        "Stir in eggs and egg yolks until well combined.",
+        "Stir in flour until just combined.",
+        "Divide the batter among the prepared ramekins.",
+        "Bake for 12-14 minutes or until the edges are set but the center is still soft.",
+        "Let it cool for a few minutes before inverting onto plates. Dust with powdered sugar if desired."
+      ],
+      "cooking_time": {
+        "prep": 15,
+        "cook": 14
+      }
+    },
+    {
+      "title": "Strawberry Shortcake",
+      "ingredients": [
+        "1 pound Fresh strawberries; hulled and sliced",
+        "1/4 cup Sugar",
+        "2 cups Whipped cream",
+        "Shortcakes [homemade or store-bought]"
+      ],
+      "servings": "4",
+      "instructions": [
+        "In a bowl; combine sliced strawberries and sugar. Let it sit for at least 30 minutes.",
+        "Slice the shortcakes horizontally.",
+        "Spoon strawberries onto the bottom half of each shortcake.",
+        "Top with a dollop of whipped cream and place the other half of the shortcake on top."
+      ],
+      "cooking_time": {
+        "prep": 15,
+        "cook": 0
+      }
+    },
+    {
+      "title": "Classic Vanilla Cupcakes with Buttercream Frosting",
+      "ingredients": [
+        "1 cup Butter [softened]",
+        "2 cups White sugar",
+        "4 large Eggs",
+        "2 teaspoons Vanilla extract",
+        "3 cups All-purpose flour",
+        "3 1/2 teaspoons Baking powder",
+        "1 cup Milk",
+        "Frosting ingredients: Butter; powdered sugar; vanilla extract; milk"
+      ],
+      "servings": "24",
+      "instructions": [
+        "Preheat oven to 350°F.",
+        "In a large bowl; cream together butter and sugar until light and fluffy.",
+        "Beat in eggs one at a time; then stir in vanilla.",
+        "In a separate bowl; whisk together flour and baking powder.",
+        "Gradually add the dry ingredients to the butter mixture; alternating with the milk.",
+        "Pour batter into cupcake liners and bake for 18-20 minutes or until a toothpick inserted comes out clean.",
+        "Let the cupcakes cool before frosting."
+      ],
+      "cooking_time": {
+        "prep": 20,
+        "cook": 20
+      }
+    },
+    {
+      "title": "Raspberry Cheesecake Bars",
+      "ingredients": [
+        "2 cups Graham cracker crumbs",
+        "1/2 cup Butter [melted]",
+        "2 packages (8 ounces each) Cream cheese [softened]",
+        "1 cup Sugar",
+        "3 large Eggs",
+        "1 teaspoon Vanilla extract",
+        "1/2 cup Sour cream",
+        "1/4 cup All-purpose flour",
+        "1 cup Raspberry jam"
+      ],
+      "servings": "16",
+      "instructions": [
+        "Preheat oven to 325°F.",
+        "In a bowl; combine graham cracker crumbs and melted butter. Press into the bottom of a greased 9x13-inch baking pan.",
+        "In a large bowl; beat cream cheese and sugar until smooth.",
+        "Add eggs; one at a time; beating well after each addition. Stir in vanilla; sour cream; and flour.",
+        "Pour the cream cheese mixture over the crust.",
+        "Warm the raspberry jam slightly and drop spoonfuls over the cream cheese mixture.",
+        "Use a knife to create a swirled pattern.",
+        "Bake for 45-50 minutes or until the center is set.",
+        "Allow to cool before cutting into bars."
+      ],
+      "cooking_time": {
+        "prep": 25,
+        "cook": 50
+      }
+    },
+    {
+      "title": "Banana Bread Pudding",
+      "ingredients": [
+        "4 cups Cubed stale bread",
+        "3 large Ripe bananas [mashed]",
+        "1 1/2 cups Milk",
+        "3/4 cup Brown sugar [packed]",
+        "2 large Eggs",
+        "1 teaspoon Vanilla extract",
+        "1/2 teaspoon Ground cinnamon",
+        "1/4 teaspoon Salt",
+        "1/2 cup Chopped walnuts (optional)"
+      ],
+      "servings": "8",
+      "instructions": [
+        "Preheat oven to 350°F.",
+        "In a large bowl; combine cubed bread and mashed bananas.",
+        "In a separate bowl; whisk together milk; brown sugar; eggs; vanilla extract; cinnamon; and salt.",
+        "Pour the wet ingredients over the bread mixture and stir to combine.",
+        "Fold in chopped walnuts if desired.",
+        "Let the mixture sit for 15-20 minutes to allow the bread to absorb the liquid"
+      ],
+      "cooking_time": {
+        "prep": 20,
+        "cook": 40
+      }
+    },
+    {
+        "title": "Triple Chocolate Brownies",
+        "ingredients": [
+          "1 cup Butter",
+          "2 cups White sugar",
+          "4 large Eggs",
+          "1 teaspoon Vanilla extract",
+          "1/2 cup All-purpose flour",
+          "1/2 cup Cocoa powder",
+          "1/4 teaspoon Salt",
+          "1 cup Semi-sweet chocolate chips",
+          "1 cup White chocolate chips"
+        ],
+        "servings": "16",
+        "instructions": [
+          "Preheat oven to 350°F.",
+          "In a saucepan; melt the butter. Remove from heat and stir in sugar; eggs; and vanilla.",
+          "In a separate bowl; combine flour; cocoa powder; and salt. Add this to the butter mixture.",
+          "Fold in semi-sweet chocolate chips and white chocolate chips.",
+          "Pour the batter into a greased 9x9-inch baking pan.",
+          "Bake for 30-35 minutes or until a toothpick inserted comes out with a few moist crumbs.",
+          "Let it cool before cutting into squares."
+        ],
+        "cooking_time": {
+          "prep": 15,
+          "cook": 35
+        }
+      },
+      {
+        "title": "Peach Cobbler",
+        "ingredients": [
+          "6 cups Fresh or canned peaches; sliced",
+          "1 cup White sugar",
+          "1 cup Brown sugar [packed]",
+          "1 teaspoon Cinnamon",
+          "1/2 teaspoon Nutmeg",
+          "1/2 cup Butter [melted]",
+          "1 1/2 cups All-purpose flour",
+          "1 1/2 teaspoons Baking powder",
+          "1/2 teaspoon Salt",
+          "1 1/2 cups Milk"
+        ],
+        "servings": "8",
+        "instructions": [
+          "Preheat oven to 350°F.",
+          "In a bowl; combine peaches; white sugar; brown sugar; cinnamon; and nutmeg.",
+          "In a separate bowl; whisk together melted butter; flour; baking powder; salt; and milk.",
+          "Pour the batter into a greased 9x13-inch baking dish.",
+          "Spoon the peach mixture over the batter without stirring.",
+          "Bake for 40-45 minutes or until the top is golden brown.",
+          "Serve warm with a scoop of vanilla ice cream."
+        ],
+        "cooking_time": {
+          "prep": 20,
+          "cook": 45
+        }
+      },
+      {
+        "title": "Lemon Bars",
+        "ingredients": [
+          "1 cup Butter [softened]",
+          "1/2 cup Powdered sugar",
+          "2 cups All-purpose flour",
+          "4 large Eggs",
+          "2 cups White sugar",
+          "1/3 cup All-purpose flour",
+          "1/2 cup Lemon juice",
+          "1 tablespoon Lemon zest",
+          "Powdered sugar for dusting"
+        ],
+        "servings": "24",
+        "instructions": [
+          "Preheat oven to 350°F.",
+          "In a bowl; cream together softened butter and powdered sugar.",
+          "Stir in 2 cups of flour until the mixture resembles coarse crumbs.",
+          "Press the mixture into the bottom of a greased 9x13-inch baking pan.",
+          "Bake for 20 minutes or until lightly golden.",
+          "In another bowl; whisk together eggs; white sugar; 1/3 cup flour; lemon juice; and lemon zest.",
+          "Pour the lemon mixture over the baked crust.",
+          "Bake for an additional 25 minutes or until the center is set.",
+          "Let it cool before dusting with powdered sugar and cutting into bars."
+        ],
+        "cooking_time": {
+          "prep": 20,
+          "cook": 45
+        }
+      },
+      {
+        "title": "Mango Sorbet",
+        "ingredients": [
+          "4 cups Fresh mango; peeled and diced",
+          "1 cup Sugar",
+          "1 cup Water",
+          "2 tablespoons Lime juice"
+        ],
+        "servings": "6",
+        "instructions": [
+          "In a saucepan; combine sugar and water. Heat over medium heat until sugar is dissolved; creating a simple syrup.",
+          "Let the simple syrup cool completely.",
+          "In a blender; combine fresh mango; simple syrup; and lime juice. Blend until smooth.",
+          "Pour the mixture into an ice cream maker and churn according to the manufacturer's instructions.",
+          "Transfer the sorbet to a lidded container and freeze for a few hours or until firm.",
+          "Serve scoops of mango sorbet in chilled bowls."
+        ],
+        "cooking_time": {
+          "prep": 15,
+          "cook": 0
+        }
+      },
+      {
+        "title": "Oreo Cheesecake",
+        "ingredients": [
+          "2 cups Oreo cookie crumbs",
+          "1/2 cup Butter [melted]",
+          "4 packages (8 ounces each) Cream cheese [softened]",
+          "1 cup White sugar",
+          "1 teaspoon Vanilla extract",
+          "4 large Eggs",
+          "1 cup Sour cream",
+          "1 cup Crushed Oreo cookies"
+        ],
+        "servings": "12",
+        "instructions": [
+          "Preheat oven to 325°F.",
+          "In a bowl; combine Oreo cookie crumbs and melted butter. Press into the bottom of a greased 9-inch springform pan.",
+          "In a large bowl; beat cream cheese; sugar; and vanilla until smooth.",
+          "Add eggs one at a time; beating well after each addition. Stir in sour cream.",
+          "Fold in crushed Oreo cookies.",
+          "Pour the cream cheese mixture over the crust.",
+          "Bake for 50-55 minutes or until the center is set.",
+          "Let it cool in the pan; then refrigerate for at least 4 hours or overnight.",
+          "Slice and serve chilled."
+        ],
+        "cooking_time": {
+          "prep": 25,
+          "cook": 55
+        }
+      },
+      {
+        "title": "Blueberry Muffins",
+        "ingredients": [
+          "2 cups All-purpose flour",
+          "1 cup White sugar",
+          "1 tablespoon Baking powder",
+          "1/2 teaspoon Salt",
+          "1/2 cup Butter [melted]",
+          "2 large Eggs",
+          "1 cup Milk",
+          "1 teaspoon Vanilla extract",
+          "1 1/2 cups Fresh or frozen blueberries"
+        ],
+        "servings": "12",
+        "instructions": [
+          "Preheat oven to 375°F.",
+          "In a bowl; whisk together flour; sugar; baking powder; and salt.",
+          "In another bowl; mix melted butter; eggs; milk; and vanilla extract.",
+          "Add the wet ingredients to the dry ingredients and stir until just combined.",
+          "Fold in blueberries.",
+          "Spoon the batter into lined muffin cups.",
+          "Bake for 20-25 minutes or until a toothpick inserted comes out clean.",
+          "Let the muffins cool before serving."
+        ],
+        "cooking_time": {
+          "prep": 15,
+          "cook": 25
+        }
+      },
+      {
+        "title": "Pumpkin Pie",
+        "ingredients": [
+          "1 1/2 cups Pumpkin puree",
+          "3/4 cup Brown sugar [packed]",
+          "1 teaspoon Cinnamon",
+          "1/2 teaspoon Ground ginger",
+          "1/4 teaspoon Ground cloves",
+          "1/2 teaspoon Salt",
+          "2 large Eggs",
+          "1 cup Evaporated milk",
+          "1 Pie crust [homemade or store-bought]"
+        ],
+        "servings": "8",
+        "instructions": [
+          "Preheat oven to 425°F.",
+          "In a bowl; combine pumpkin puree; brown sugar; cinnamon; ginger; cloves; and salt.",
+          "In another bowl; whisk eggs and stir in evaporated milk.",
+          "Add the egg mixture to the pumpkin mixture and mix until well combined.",
+          "Pour the filling into the pie crust.",
+          "Bake for 15 minutes; then reduce the oven temperature to 350°F and bake for an additional 40-45 minutes or until a knife inserted comes out clean.",
+          "Let it cool before slicing and serving."
+        ],
+        "cooking_time": {
+            "prep": 15,
+            "cook": 25
+          }
+      },
+      {
+        "title": "Caramel Apple Crisp",
+        "ingredients": [
+          "6 cups Apples; peeled; cored; and sliced",
+          "1/2 cup Granulated sugar",
+          "1 teaspoon Cinnamon",
+          "1/4 teaspoon Nutmeg",
+          "1 cup Old-fashioned oats",
+          "1/2 cup All-purpose flour",
+          "1/2 cup Brown sugar [packed]",
+          "1/2 cup Butter [melted]",
+          "1 cup Caramel sauce [store-bought or homemade]"
+        ],
+        "servings": "8",
+        "instructions": [
+          "Preheat oven to 350°F.",
+          "In a bowl; combine sliced apples; granulated sugar; cinnamon; and nutmeg.",
+          "Pour the apple mixture into a greased 9x13-inch baking dish.",
+          "In another bowl; combine oats; flour; brown sugar; and melted butter. Mix until crumbly.",
+          "Sprinkle the oat mixture over the apples.",
+          "Bake for 40-45 minutes or until the topping is golden brown and the apples are tender.",
+          "Drizzle caramel sauce over the crisp before serving."
+        ],
+        "cooking_time": {
+            "prep": 0,
+            "cook": 45
+          }
+      },
+      {
+        "title": "Chocolate-Dipped Strawberries",
+        "ingredients": [
+          "1 pound Fresh strawberries; washed and dried",
+          "8 ounces Semisweet or dark chocolate; chopped",
+          "1 tablespoon Coconut oil"
+        ],
+        "servings": "4",
+        "instructions": [
+          "Line a baking sheet with parchment paper.",
+          "In a microwave-safe bowl; melt the chocolate and coconut oil in 30-second intervals; stirring between each interval.",
+          "Dip each strawberry into the melted chocolate; coating about two-thirds of the berry.",
+          "Place the dipped strawberries on the prepared baking sheet.",
+          "Allow the chocolate to set by placing the strawberries in the refrigerator for about 30 minutes.",
+          "Serve and enjoy your chocolate-dipped strawberries!"
+        ],
+        "cooking_time": {
+            "prep": 0,
+            "cook": 30
+          }
+      },
+      {
+        "title": "Cherry Almond Cake",
+        "ingredients": [
+          "2 cups All-purpose flour",
+          "1 1/2 teaspoons Baking powder",
+          "1/2 teaspoon Baking soda",
+          "1/2 teaspoon Salt",
+          "1/2 cup Unsalted butter [softened]",
+          "1 cup White sugar",
+          "2 large Eggs",
+          "1 teaspoon Almond extract",
+          "1 cup Buttermilk",
+          "1 1/2 cups Fresh or frozen cherries; pitted and halved",
+          "1/2 cup Sliced almonds"
+        ],
+        "servings": "10",
+        "instructions": [
+          "Preheat oven to 350°F. Grease and flour a 9-inch round cake pan.",
+          "In a bowl; whisk together flour; baking powder; baking soda; and salt.",
+          "In another bowl; cream together butter and sugar until light and fluffy.",
+          "Beat in eggs one at a time; then stir in almond extract.",
+          "Add the dry ingredients to the butter mixture alternately with buttermilk; beginning and ending with the dry ingredients.",
+          "Gently fold in cherries and sliced almonds.",
+          "Pour the batter into the prepared cake pan.",
+          "Bake for 35-40 minutes or until a toothpick inserted into the center comes out clean.",
+          "Allow the cake to cool before slicing."
+        ],
+        "cooking_time": {
+            "prep": 0,
+            "cook": 40
+          }
+      }
+]
+  

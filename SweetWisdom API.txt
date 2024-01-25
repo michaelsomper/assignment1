@@ -1,0 +1,16 @@
+SweetWisdom API
+
+GET /recipe?keyword=
+	This is a get request to gather and send all the data of the recipes which have the keyword (defined in the request) in their title.
+
+GET /retrieve
+	This is a get request to retrieve the urls of all images for a specific recipe. It uses the title defined in the request to gather the images.
+
+POST /upload
+	Used as a post method of an image submission form. Gets the image from the form and uploads it to the server into an images folder.
+
+GET /aboutus
+	Used as a get request to retrieve html data for the aboutus section when the appropiate area on the navbar is clicked.
+
+GET /copyright
+	Used as a get request to retrieve html data for the copyright section when the appropiate area on the navbar is clicked.
